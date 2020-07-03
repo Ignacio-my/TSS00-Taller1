@@ -21,5 +21,5 @@ archivoUsoEjecucion: variable en la cual se abren todos los archivos que tiene l
 
 tmpFile: archivo temporal donde se dejan los datos especificos para calcular la solucion del problema estos datos se tomaron de los archivos de la variable archivoUsoEjecucion 
 
-cmd: variable que se ocupa de calcular los datos del archivo tmpFile estos seran el total, promedio, minimo y maximo
+calculo: variable que se ocupa de calcular los datos del archivo tmpFile estos seran el total, promedio, minimo y maximo
   
