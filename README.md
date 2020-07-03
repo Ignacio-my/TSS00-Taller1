@@ -1,4 +1,4 @@
-# TSS00-Taller1
+# TSSOO-taller01
 autor: Ignacio Miranda
 
 Correo Institucional: ignacio.miranda@alumnos.uv.cl
