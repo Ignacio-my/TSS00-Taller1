@@ -13,6 +13,8 @@ promedioTelefonosMoviles(): calcula el tiempo promedio del uso de los telefonos 
 
 tiempoEvacuacionPersonas(): calcula el tiempo promedio de la evacuacion de personas segun el conjunto completo y diferenciado por residentes o visitantes, el conjunto de archivos que ocupa es summary y el archivo en el cual muestra los datos es llamado evacuation.txt
 
+calcular(): funcion que obtiene los datos del archivo temporal llamado tmpFile y los calcula para obtener los resultados que se esperan para cada problema
+
 Conjunto de variables dentro de cada funcion
 
 OUTFILE: variable en la cual se escribiran los datos que pide cada problema
